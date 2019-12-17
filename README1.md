@@ -1,4 +1,4 @@
-Middletown South Eagles, MTS
+Middletown South Eagles,MTS
 QB,Jerome Thompkins,22,2019,71,72,95,75,92,77,1.0,5
 QB,Gordon Noonkester,22,2019,73,79,82,77,92,90,1.0,5
 QB,Wade Herrada,22,2019,74,80,83,73,92,84,1.0,5
