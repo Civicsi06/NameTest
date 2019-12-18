@@ -3,7 +3,7 @@ QB,Jerome Thompkins,22,2016,71,72,95,75,92,77,1.0,5
 QB,Gordon Noonkester,22,2016,73,79,82,77,92,90,1.0,5
 QB,Wade Herrada,22,2016,74,80,83,73,92,84,1.0,5
 RB,Rodrick Mcgarrity,22,2016,79,71,70,77,72,88,1.0,5
-RB,Cory Nailor,22,2015,94,89,93,85,84,92,1,0,5
+RB,Cory Nailor,22,2015,94,89,93,85,84,92,1.0,5
 RB,Edison Brewster,22,2010,86,84,95,70,78,94,1.0,5
 RB,Ismeal Digennaro,22,2016,78,87,75,77,80,85,1.0,5
 WR,Leonel Carrington,22,2016,88,73,94,78,71,74,1.0,5
@@ -48,6 +48,7 @@ LB,Carl Liston,22,2009,75,79,94,90,77,80,1.0,5
 LB,Faustino Jowett,22,2016,95,73,71,78,88,93,1.0,5
 LB,Eli Shardner,22,2011,72,90,88,86,81,80,1.0,5
 LB,Walton Kenison,22,2016,88,80,71,90,83,73,1.0,5
+LB,Dre Switz,22,2016,89,73,90,81,76,79,1.0,5
 END_PLAYERS
 Cincinnati Bengals,CIN
 QB,Andy Dalton,28,2011,84,81,96,86,79,20,16,6
