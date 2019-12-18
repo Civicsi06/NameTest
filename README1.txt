@@ -48,7 +48,6 @@ LB,Carl Liston,22,2009,75,79,94,90,77,80,1.0,5
 LB,Faustino Jowett,22,2016,95,73,71,78,88,93,1.0,5
 LB,Eli Shardner,22,2011,72,90,88,86,81,80,1.0,5
 LB,Walton Kenison,22,2016,88,80,71,90,83,73,1.0,5
-LB,Kip Harrelson,22,2016,93,84,86,70,79,94,1.0,5
 END_PLAYERS
 Cincinnati Bengals,CIN
 QB,Andy Dalton,28,2011,84,81,96,86,79,20,16,6
